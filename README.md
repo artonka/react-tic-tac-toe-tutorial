@@ -1,1 +1,1 @@
-Tic-Tac-Toe game from React tutorial but with restart button
+Tic-Tac-Toe game from [React tutorial](https://react.dev/learn/tutorial-tic-tac-toe) but with restart button
